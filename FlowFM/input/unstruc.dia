@@ -1,0 +1,4 @@
+* Deltares, D-Flow FM Version 1.2.120.000000, Jun 18 2021, 12:26:28
+* Source: https://svn.oss.deltares.nl/repos/delft3d/tags/delft3dfm/68819/
+* File creation date: 13:12:41, 18-06-2021
+** INFO   : Command: "E:\Programming\FORTRAN\unversioned\Delft3D-FM 68819\src\bin\x64\dflowfm\scripts\..\..\..\x64\dflowfm\bin\dflowfm-cli.exe"  --nodisplay --autostartstop .\FlowFM.mdu
